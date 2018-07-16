@@ -9,7 +9,7 @@ In order to install it your PYNQ, connect to the board, open a terminal and type
 
 ```shell
 # (on PYNQ v2.1)
-sudo pip3.6 install git+https://github.com/Xilinx/QNN-MO-PYNQ.git
+sudo pip3.6 install git+https://github.com/woodygzp/test2.git
 ```
 
 **The installation can take up to 10 minutes, since dependencies must be resolved and sources compiled.**
